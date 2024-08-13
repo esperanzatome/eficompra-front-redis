@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e9f72f6.css",
+    "main.js": "/static/js/main.e34b285a.js",
+    "static/js/453.a1fceeb6.chunk.js": "/static/js/453.a1fceeb6.chunk.js",
+    "static/media/hoja-arrugada.jpg": "/static/media/hoja-arrugada.5737e153f3d753af37ac.jpg",
+    "static/media/post-it.jpg": "/static/media/post-it.da32268314c121c5f78f.jpg",
+    "static/media/fondo-img.png": "/static/media/fondo-img.447d34707e7a8ea8962a.png",
+    "static/media/libreta.png": "/static/media/libreta.8d32c17748f8b935efab.png",
+    "index.html": "/index.html",
+    "main.9e9f72f6.css.map": "/static/css/main.9e9f72f6.css.map",
+    "main.e34b285a.js.map": "/static/js/main.e34b285a.js.map",
+    "453.a1fceeb6.chunk.js.map": "/static/js/453.a1fceeb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e9f72f6.css",
+    "static/js/main.e34b285a.js"
+  ]
+}
